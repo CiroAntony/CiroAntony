@@ -13,7 +13,6 @@ Hello! I'm Ciro Antony, a software development enthusiast specialized in front-e
     <br/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiroAntony&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Ciro Antony's Top Languages">
 </div>
-username=CiroAntony&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CiroAntony&theme=radical&no-frame=true&no-bg=false&margin-w=4)
