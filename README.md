@@ -8,9 +8,9 @@ Hello! I'm Ciro Antony, a software development enthusiast specialized in front-e
 # 📊 GitHub Stats:
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=CiroAntony&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="Ciro Antony's GitHub Stats">
-    <br/>
+    <br><br>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CiroAntony&theme=react&hide_border=false" alt="Ciro Antony's GitHub Streak">
-    <br/>
+    <br><br>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiroAntony&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Ciro Antony's Top Languages">
 </div>
 
