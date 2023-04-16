@@ -15,11 +15,16 @@ Hello! I'm Ciro Antony, a software development enthusiast specialized in front-e
 </div>
 
 ## 🏆 GitHub Trophies
+
+<div align="center">
 ![](https://github-profile-trophy.vercel.app/?username=CiroAntony&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+</div>
 
 ### ✍️ Random Dev Quote
+<div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
+</div>
+    
 ---
 [![](https://visitcount.itsvg.in/api?id=CiroAntony&icon=8&color=1)](https://visitcount.itsvg.in)
 
